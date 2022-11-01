@@ -1,0 +1,14 @@
+.table-page {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 20px;
+}
+
+.ant-table-wrapper {
+  width: 100%;
+}
+
+.addBtn {
+  margin: 20px 20px 0 0;
+}
